@@ -10,7 +10,7 @@
 ## 📊 GitHub Score & Grade
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=animeshSDE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" alt="github stats" />
 </p>
 
 <p align="center">
