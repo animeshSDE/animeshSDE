@@ -10,11 +10,11 @@
 ## 📊 GitHub Score & Grade
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=animeshSDE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=animeshSDE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=0" alt="github stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=animeshSDE&theme=tokyonight" alt="github streak" />
+  <img src="https://streak-stats.demolab.com?user=animeshSDE&theme=tokyonight&cache_seconds=0" alt="github streak" />
 </p>
 
 <p align="center">
@@ -33,10 +33,10 @@
 
 ## 📌 About Me
 
-- Building full-stack web apps
-- Working with **React, Node.js, SQL Server**
-- Interested in scalable backend systems and clean UI
-- Focused on practical developer tools and production apps
+- Building full-stack web apps  
+- Working with **React, Node.js, SQL Server**  
+- Interested in scalable backend systems and clean UI  
+- Focused on practical developer tools and production apps  
 
 ---
 
