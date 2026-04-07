@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=animeshSDE&theme=tokyonight&cache_seconds=0" alt="github streak" />
+  <img src="https://streak-stats.demolab.com?user=animeshSDE&theme=tokyonight&cache_seconds=0&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 <p align="center">
